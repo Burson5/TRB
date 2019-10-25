@@ -1,2 +1,2 @@
 # TRB
-typeScript+react+mobx+webpack 脚手架
+typeScript+react+antd+mobx+webpack 脚手架

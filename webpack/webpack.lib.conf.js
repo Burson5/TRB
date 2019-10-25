@@ -12,10 +12,7 @@ module.exports = {
       'react-router',
       'react-router-dom',
       'mobx',
-      'mobx-react',
-      // "html2canvas",
-      // "jspdf",
-      // "axios"
+      'mobx-react'
     ],
     ui: ['antd']
   },
