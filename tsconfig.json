@@ -4,7 +4,7 @@
     "module": "esnext",
     "target": "es5",
     "moduleResolution": "node",
-    "types": ["node", "react", "react-dom"],
+    "types": ["node", "react", "react-dom", "react-router"],
     "allowSyntheticDefaultImports": true,
     "experimentalDecorators": true,
     "removeComments": true,

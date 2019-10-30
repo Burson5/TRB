@@ -1,3 +1,7 @@
+// 模拟完整es2015+环境
+import 'core-js/stable';
+import 'regenerator-runtime/runtime';
+
 import React, { Component } from 'react';
 import { observer, Provider } from 'mobx-react';
 import { HomePage } from '~/routes';
